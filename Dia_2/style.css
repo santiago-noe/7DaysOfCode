@@ -1,1 +1,19 @@
+body {
+    background: linear-gradient(135deg, #f0f4f8 0%, #cfe2ff 100%);
+}
 
+.container {
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+    border-radius: 1.5rem;
+    background: #fff;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+#resultado {
+    margin-top: 30px;
+    color: #495057;
+    font-weight: 500;
+}
